@@ -1,0 +1,2 @@
+# tidyStudy
+- python algorithm
